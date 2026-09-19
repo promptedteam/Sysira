@@ -5,7 +5,7 @@
 <p align="center">A Windows desktop app for reviewing file changes, moves, network connections, Windows activity, and security alerts in one place.</p>
 
 <p align="center">
-  <a href="https://github.com/promptedteam/Sysira/releases/latest"><img alt="Release v3.2.1" src="https://img.shields.io/badge/release-v3.2.1-2563eb"></a>
+  <a href="https://github.com/promptedteam/Sysira/releases/latest"><img alt="Release v3.2.2" src="https://img.shields.io/badge/release-v3.2.2-2563eb"></a>
   <a href="https://github.com/promptedteam/Sysira/releases/latest"><img alt="Downloads available" src="https://img.shields.io/badge/downloads-available-2ea44f"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-334155">
   <img alt="Architecture x64" src="https://img.shields.io/badge/Architecture-x64-334155">
