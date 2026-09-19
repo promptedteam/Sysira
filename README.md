@@ -5,7 +5,7 @@
 <p align="center">A Windows desktop app for reviewing file changes, moves, network connections, Windows activity, and security alerts in one place.</p>
 
 <p align="center">
-  <a href="https://github.com/promptedteam/Sysira/releases/latest"><img alt="Release v3.2.3" src="https://img.shields.io/badge/release-v3.2.3-2563eb"></a>
+  <a href="https://github.com/promptedteam/Sysira/releases/latest"><img alt="Release v3.2.4" src="https://img.shields.io/badge/release-v3.2.4-2563eb"></a>
   <a href="https://github.com/promptedteam/Sysira/releases/latest"><img alt="Downloads available" src="https://img.shields.io/badge/downloads-available-2ea44f"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-334155">
   <img alt="Architecture x64" src="https://img.shields.io/badge/Architecture-x64-334155">
@@ -33,6 +33,8 @@ These tightly captured app screenshots use demonstration data, not a user's desk
 | ![Sysira internet activity with example IP addresses](screenshots/internet.png) | ![Sysira monitoring settings in light mode](screenshots/light.png) |
 
 ## Downloads and updates
+
+Version 3.2.4 adds an optional floating status widget, smoother paging for large alert collections, and scrolling for compact app windows.
 
 Sysira checks this repository's latest release in the background. The download icon beside the light/dark mode control appears **only when a newer version is available**. Choose Setup, Portable, or MSI, then download and verify it inside Sysira or open the release page. After a verified Setup or MSI download, use **Install update** inside Sysira to launch the standard Windows installer. Sysira closes after Windows starts it; updates are never installed silently. Portable is a standalone download, not an installer.
 
